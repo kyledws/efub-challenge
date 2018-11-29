@@ -1,0 +1,16 @@
+{
+  "clear": "Forma chiara",
+  "customerPanel": "Pannello del cliente",
+  "email": "Indirizzo email",
+  "filter": "Filtrare",
+  "filterType": "Tipo di filtro",
+  "gender": "Sesso",
+  "locale": "Locale",
+  "matchAll": "Abbina tutti i campi",
+  "matchAny": "Abbina qualsiasi campo",
+  "name": "Nome di battesimo",
+  "password": "Parola d'ordine",
+  "phone": "Numero di telefono",
+  "region": "Nazione",
+  "surname": "Cognome"
+}

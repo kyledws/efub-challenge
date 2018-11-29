@@ -1,0 +1,16 @@
+{
+  "clear": "Klare Form",
+  "customerPanel": "Kundenpanel",
+  "email": "E-Mail-Addresse",
+  "filter": "Aussortieren",
+  "filterType": "Filter Typ",
+  "gender": "Geschlecht",
+  "locale": "Locale",
+  "matchAll": "Verwenden Sie alle von ihnen",
+  "matchAny": "Verwenden Sie einige davon",
+  "name": "Vorname",
+  "password": "Passwort",
+  "phone": "Telefonnummer",
+  "region": "Land",
+  "surname": "Nachname"
+}

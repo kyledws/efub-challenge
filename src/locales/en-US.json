@@ -1,0 +1,16 @@
+{
+  "clear": "Clear",
+  "customerPanel": "Customer Panel",
+  "email": "Email Address",
+  "filter": "Filter",
+  "filterType": "Filter Type",
+  "gender": "Gender",
+  "locale": "Locale",
+  "matchAll": "Match all fields",
+  "matchAny": "Match any field",
+  "name": "First Name",
+  "password": "Password",
+  "phone": "Phone Number",
+  "region": "Country",
+  "surname": "Last Name"
+}
